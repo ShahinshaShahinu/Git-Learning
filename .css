@@ -10,6 +10,7 @@ header {
     color: #fff;
     padding: 1em;
     text-align: center;
+    
 }
 
 section {
@@ -21,9 +22,15 @@ section {
 }
 
 footer {
-    background-color: #f80b0b;
-    color: #da0707;
+    background-color: #0b99f8;
+    color: #07da07;
     padding: 1em;
     text-align: center;
 }
 
+.tag{
+    color: wheat;
+}
+.GitCommand{
+    color: #07da07;
+}
